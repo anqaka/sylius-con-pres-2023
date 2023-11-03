@@ -78,8 +78,6 @@ class: text-center
 </div>
 
 
-<!--  -->
-
 ---
 layout: none
 ---
@@ -407,6 +405,8 @@ layout: two-cols-header
 
 
 ---
+layout: two-cols
+---
 
 # Resources
 
@@ -424,6 +424,14 @@ layout: two-cols-header
     <a href="https://overlayfactsheet.com/" target="_blank">Accessibility Overlay Fact Sheet</a>
   </li>
 </ul>
+
+::right::
+
+<div class="p-4 w-1/2">
+  <img src="/qr-code-pres.png" alt="qr code to slides" />
+</div>
+
+<a href="https://sylius-con-pres-2023.vercel.app/" target="_blank">https://sylius-con-pres-2023.vercel.app/</a>
 
 ---
 layout: thankyou
