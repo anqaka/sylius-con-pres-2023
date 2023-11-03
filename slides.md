@@ -153,7 +153,7 @@ hideInToc: true
 * Population: 585.1 million
 * Internet users - 92% of population: 537.692&nbsp;million
 * 76% of internet users shop online: 408.6&nbsp;million
-* ~15% users with disabilities: 61.29&nbsp;million (over 80 million of users)
+* ~15% users with disabilities: 61.29&nbsp;million
 * ~13% older users (+55): 53.118&nbsp;million
 * ~20% neurodiverse users: 81.72&nbsp;million
 * users under some temporary limitation: ??
